@@ -9,7 +9,7 @@ KECBazar is an ecommerce platform for the students at Kantipur Engineering Colle
 
 1. Install [Docker](https://docs.docker.com/engine/install/) on your computer.
 
-2. Build the image [First Time Only]
+2. Build the image
 ```bash
    $ docker-compose build
 ```
